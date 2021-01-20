@@ -1,4 +1,4 @@
-print("Hi)
+print("Hi")
 
 print(A)
 print(B)
